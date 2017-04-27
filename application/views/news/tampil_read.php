@@ -1,0 +1,1 @@
+<?php echo $detail_post->post; ?>
